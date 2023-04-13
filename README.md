@@ -3,7 +3,7 @@
 
 ***Project code made for a Kaggle competition named  as AI of GOD hosted by IIT Dhanbad***
 
-[Link to competition, my ranking for 1 submission.](https://www.kaggle.com/competitions/concetto22/leaderboard)
+[Link to competition, my ranking for 1 submission.](https://www.kaggle.com/competitions/concetto22/leaderboard)   (Rank 10 : SairajLoke , on just 1 submission)
 
 **Background :**
 Dementia is one of the most common neurocognitive syndromes in the world, in which the memory and the ability to perform daily life activities deteriorate and get worse. If detected early, it can help in better management of the disease and can save a person from a lifelong dependency on severe medication.
